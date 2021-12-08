@@ -1,0 +1,4 @@
+12/1 employee and locations lists arent working when clicked
+12/2 props, dont quite understand, get effect compared to setting context
+12/7 "When the button is clicked, show the employee form by using history.push() to change the route." huh it works without this
+12/8 what is history doing in AnimalList line 25
